@@ -18,16 +18,6 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/StringCalculator.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd StringCalculator
-Install dependencies: After navigating into the project folder, install the necessary dependencies using npm:
-
-bash
-Copy code
 npm install
 Running the Tests
 This project uses Jest for testing. Follow the instructions below to run the tests:
